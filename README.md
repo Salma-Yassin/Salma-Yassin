@@ -2,14 +2,31 @@
 
 ## Tools and Technologies
 
-<img src="https://img.icons8.com/color/48/000000/python.png"/> 
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/matlab.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img src="https://img.icons8.com/color/48/000000/numpy.png"/>
-<img src="https://img.icons8.com/color/48/000000/scikit-learn.png"/>
-<img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
-<img src="https://img.icons8.com/color/48/000000/flask.png"/>
+## Tools and Technologies
+
+<style>
+    .icon-row {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .icon {
+        margin: 10px;
+    }
+</style>
+
+<div class="icon-row">
+    <div class="icon"><img src="https://img.icons8.com/color/48/000000/python.png"/></div>
+    <div class="icon"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></div>
+    <div class="icon"><img src="https://img.icons8.com/color/48/000000/matlab.png"/></div>
+    <div class="icon"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></div>
+    <div class="icon"><img src="https://img.icons8.com/color/48/000000/numpy.png"/></div>
+    <div class="icon"><img src="https://img.icons8.com/color/48/000000/scikit-learn.png"/></div>
+    <div class="icon"><img src="https://img.icons8.com/color/48/000000/tensorflow.png"/></div>
+    <div class="icon"><img src="https://img.icons8.com/color/48/000000/flask.png"/></div>
+</div>
 
 <!--
 **Salma-Yassin/Salma-Yassin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
