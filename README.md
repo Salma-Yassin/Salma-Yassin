@@ -1,31 +1,16 @@
 ### Hi there 👋
 
-## Tools and Technologies
-
-## Tools and Technologies
-
-<style>
-    .icon-row {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-        align-items: center;
-    }
-    
-    .icon {
-        margin: 10px;
-    }
-</style>
-
-<div class="icon-row">
-    <div class="icon"><img src="https://img.icons8.com/color/48/000000/python.png"/></div>
-    <div class="icon"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></div>
-    <div class="icon"><img src="https://img.icons8.com/color/48/000000/matlab.png"/></div>
-    <div class="icon"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></div>
-    <div class="icon"><img src="https://img.icons8.com/color/48/000000/numpy.png"/></div>
-    <div class="icon"><img src="https://img.icons8.com/color/48/000000/scikit-learn.png"/></div>
-    <div class="icon"><img src="https://img.icons8.com/color/48/000000/tensorflow.png"/></div>
-    <div class="icon"><img src="https://img.icons8.com/color/48/000000/flask.png"/></div>
+<div>
+  <h2 align="left">Languages and Tools:</h2>
+  <p align="left">
+    <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+    <a href="https://www.cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/></a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+    <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/flask.png" alt="flask" width="40" height="40"/></a>
+    <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+    <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
+    <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+  </p>
 </div>
 
 <!--
