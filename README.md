@@ -4,6 +4,23 @@ Hi, I'm Salma Yassin!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br/>
 
+## <!--<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>--> About me
+
+<!--<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>-->
+
+```
+<!--💻 I am a self taught Full Stack Developer and a Machine Learning Developer-->
+📚 I am a Communicatiom and Information Engineering Senior student at Zewail City 
+📝 I have a strong interest in Data Science and Artificial Intelligence
+🔭 Working on Deep Learning & Machine Learning
+🌱 Learning about Computer Vision and Machine Learning stuff
+<!--🌟 Main languages: Python, JavaScript
+🚩 Interested in Full Stack Machine Learning Application development
+💖 In a complicated relationship with Neural Networks
+🎵 Love metal, lofi, jazz and soft music-->
+```
+<hr>
+
 ## 🛠️ My Skills
 
 ### 👨‍💻 Programming Languages
@@ -11,44 +28,61 @@ Hi, I'm Salma Yassin!
 <p align="center"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="50">
+    <img src="https://skillicons.dev/icons?i=c" height="50">
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="50">
+    <img src="https://skillicons.dev/icons?i=cpp" height="50">
   </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="50">
-   </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="50">
-  </a>
+  &emsp; 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=cs" height="50">
+  </a> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="50">
+   <img src="https://skillicons.dev/icons?i=html" height="50">
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="50">
+    <img src="https://skillicons.dev/icons?i=css" height="50">
   </a> 
   &emsp;
   <a href="https://www.python.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/react/python.png" height="50">
+    <img src="https://skillicons.dev/icons?i=py" height="50">
   </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="50">
+    <img src="https://skillicons.dev/icons?i=js" />
    </a>
+ &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=ts" />
+   </a>
+ &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=matlab" />
+   </a>
+</p>
+
+### 🧰 Frameworks and Libraries
+
+<p  align="center">
+    <!-- <a href="#"><img alt="Keras" src="https://skillicons.dev/icons?i=react"></a>
+    <a href="#"><img alt="NumPy" src="https://skillicons.dev/icons?i=react"></a>
+    <a href="#"><img alt="Pandas" src="https://skillicons.dev/icons?i=react"></a>-->
+    <a href="#"><img alt="TensorFlow" src="https://skillicons.dev/icons?i=tensorflow"></a>
+    <a href="#"><img alt="React" src="https://skillicons.dev/icons?i=react"></a>
+    <a href="#"><img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"></a>
+    <a href="#"><img alt="Flask" src="https://skillicons.dev/icons?i=flask"></a>
+
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
  
-<!--<p align="center">
+<p align="center">
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
+    <a href="#"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <!--&emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
@@ -67,10 +101,8 @@ Hi, I'm Salma Yassin!
     &emsp;
     <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
     &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/django-%23092E20.svg?&style=plastic&logo=django&logoColor=white" /></a>
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
-</p>-->
+    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>-->
+</p>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
