@@ -11,9 +11,11 @@ Hi, I'm Salma Yassin!
 <!--💻 I am a self taught Full Stack Developer and a Machine Learning Developer-->
 ```
 📚 I am a Communication and Information Engineering Senior student at Zewail City 
-📝 I have a strong interest in Data Science and Artificial Intelligence
+📝 I have a strong interest in Data Science, Artificial Intelligence, and Software Development 
 🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
+🌱 Learning about Computer Vision and Natural language processing 
+🚩 Interested in web design, user experience, and responsive design principles
+🌟 Learning about developing dynamic and interactive web applications using modern front-end frameworks
 ```
 <!--🌟 Main languages: Python, JavaScript
 🚩 Interested in Full Stack Machine Learning Application development
@@ -26,39 +28,30 @@ Hi, I'm Salma Yassin!
 ### 👨‍💻 Programming Languages
 
 <p align="center"> 
-  &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=c" height="50">
   </a> 
-  &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=cpp" height="50">
   </a> 
-  &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=cs" height="50">
   </a> 
-  &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img src="https://skillicons.dev/icons?i=html" height="50">
   </a>   
-  &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://skillicons.dev/icons?i=css" height="50">
   </a> 
-  &emsp;
   <a href="https://www.python.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=py" height="50">
   </a>
-  &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=js" />
    </a>
- &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=ts" />
    </a>
- &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=matlab" />
    </a>
@@ -81,7 +74,12 @@ Hi, I'm Salma Yassin!
  
 <p align="center">
   &emsp;
-    <a href="#"><img src="https://skillicons.dev/icons?i=git" /></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=git" /></a> 
+    <a href="#"><img src="https://skillicons.dev/icons?i=docker" /></a> 
+    <a href="#"><img src="https://skillicons.dev/icons?i=visualstudio" /></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=azure" /></a> 
+    <a href="#"><img src="https://skillicons.dev/icons?i=postman" /></a>
   <!--&emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
