@@ -61,8 +61,8 @@ Hi, I'm Salma Yassin!
 
 <p  align="center">
     <!-- <a href="#"><img alt="Keras" src="https://skillicons.dev/icons?i=react"></a>
-    <a href="#"><img alt="NumPy" src="https://skillicons.dev/icons?i=react"></a>
-    <a href="#"><img alt="Pandas" src="https://skillicons.dev/icons?i=react"></a>-->
+    <a href="#"><img alt="NumPy" src="https://skillicons.dev/icons?i=react"></a>-->
+    <a href="#"><img alt="Pandas" src="https://skillicons.dev/icons?i=react"></a>
     <a href="#"><img alt="TensorFlow" src="https://skillicons.dev/icons?i=tensorflow"></a>
     <a href="#"><img alt="React" src="https://skillicons.dev/icons?i=react"></a>
     <a href="#"><img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"></a>
