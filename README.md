@@ -60,9 +60,10 @@ Hi, I'm Salma Yassin!
 ### 🧰 Frameworks and Libraries
 
 <p  align="center">
-    <!-- <a href="#"><img alt="Keras" src="https://skillicons.dev/icons?i=react"></a>
-    <a href="#"><img alt="NumPy" src="https://skillicons.dev/icons?i=react"></a>-->
-    <a href="#"><img alt="Pandas" src="https://skillicons.dev/icons?i=react"></a>
+    <!-- <a href="#"><img alt="Keras" src="https://skillicons.dev/icons?i=react"></a>-->
+    <a href="#"><img alt="OpenCv" src="https://github.com/get-icon/geticon/raw/master/icons/opencv.svg" width="50px" height="50px"></a>
+    <a href="#"><img alt="NumPy" src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" width="50px" height="50px"></a>
+    <a href="#"><img alt="Pandas" src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" width="50px" height="50px"></a>
     <a href="#"><img alt="TensorFlow" src="https://skillicons.dev/icons?i=tensorflow"></a>
     <a href="#"><img alt="React" src="https://skillicons.dev/icons?i=react"></a>
     <a href="#"><img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"></a>
