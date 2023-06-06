@@ -61,6 +61,7 @@ Hi, I'm Salma Yassin!
 
 <p  align="center">
     <!-- <a href="#"><img alt="Keras" src="https://skillicons.dev/icons?i=react"></a>-->
+    <a href="#"><img alt="Hadoop" src="https://github.com/get-icon/geticon/raw/master/icons/hadoop.svg" width="50px" height="50px"></a>
     <a href="#"><img alt="OpenCv" src="https://github.com/get-icon/geticon/raw/master/icons/opencv.svg" width="50px" height="50px"></a>
     <a href="#"><img alt="NumPy" src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" width="50px" height="50px"></a>
     <a href="#"><img alt="Pandas" src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" width="50px" height="50px"></a>
