@@ -8,7 +8,7 @@ Hi, I'm Salma Yassin!
 
 <!--<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>-->
 ```
-📚 I am a Communication and Information Engineering Senior student at Zewail City 
+📚 I am a Communication and Information Engineer. I graduated from University of Science and Technology at Zewail City 
 📝 I have a strong interest in Data Science, Artificial Intelligence, and Software Development 
 🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Computer Vision and Natural language processing 
